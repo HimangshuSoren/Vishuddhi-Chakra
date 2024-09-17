@@ -7,11 +7,11 @@ body{
 }
 .container{
 
-    /* width: 100vw; */
+    width: 100vw;
     aspect-ratio: 1/1;
     background-color: rgb(24, 24, 54);
     /* background-color: red; */
-    padding: 2%;
+    /* padding: 12%; */
     display: flex;
     align-items: center;
     justify-content: center;
