@@ -8,7 +8,7 @@ body{
 .container{
 
     width: 100vw;
-    aspect-ratio: 1/1;
+    aspect-ratio: 6/3;
     background-color: rgb(24, 24, 54);
     /* background-color: red; */
     /* padding: 12%; */
